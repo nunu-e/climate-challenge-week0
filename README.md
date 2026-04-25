@@ -1,4 +1,4 @@
-# Climate Challenge Week 0
+# Climate Challenge Week 0/10Academy
 
 ## Setup
 
